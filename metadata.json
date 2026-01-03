@@ -1,0 +1,8 @@
+{
+  "name": "Copy of DataBounty - Decentralized Data Acquisition",
+  "description": "A professional platform for crowdsourcing data. Requesters post bounties for specific data types, and hunters fulfill them via web scraping and manual collection to earn rewards.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
